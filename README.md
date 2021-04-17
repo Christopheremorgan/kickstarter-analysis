@@ -29,4 +29,4 @@ For more detail see analysis file at following link...
 
 - What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?  One in particular that would be helpful for Louise to get a read on how well the campaign is going after launch is understanding percentage funded rates for failed campaigns.  Since Louise's funding has started strong her likelihood of success is high as less than 3% of failed projects achieved at least 50% of their funding goal.
